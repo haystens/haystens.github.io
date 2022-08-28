@@ -1,0 +1,15 @@
+let response; 
+
+function isOldEnoughToVote(age) {
+  let result;
+
+  if(age >= 18 ){
+    result = true
+  }else{
+    result = false
+  }
+  return result;
+}
+
+//open the browser console to check results
+console.log('results: ', isOldEnoughToVote(18));
