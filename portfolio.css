@@ -1,0 +1,22 @@
+body {
+    background-color: rgba(245, 219, 237, 0.87);
+    text-align: center;
+}
+
+
+h1 {
+    font-size: 3em;
+    color: black;
+    text-align: center;}
+p {
+    font-size: 1.5em;
+    color: black;
+    text-align: center;}
+
+div {
+    
+      text-align: center;}
+
+a {
+    text-align: center;
+}
